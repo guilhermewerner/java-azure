@@ -12,6 +12,4 @@ repositories {
 
 dependencies {
     implementation "com.azure:azure-ai-textanalytics:5.1.0"
-    implementation "com.google.guava:guava:30.0-jre"
-    testImplementation "junit:junit:4.13.1"
 }
