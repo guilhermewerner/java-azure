@@ -4,10 +4,6 @@ import com.azure.core.credential.AzureKeyCredential;
 import com.azure.ai.textanalytics.models.*;
 import com.azure.ai.textanalytics.TextAnalyticsClientBuilder;
 import com.azure.ai.textanalytics.TextAnalyticsClient;
-import com.azure.core.credential.AzureKeyCredential;
-import com.azure.ai.textanalytics.models.*;
-import com.azure.ai.textanalytics.TextAnalyticsClientBuilder;
-import com.azure.ai.textanalytics.TextAnalyticsClient;
 
 public class JavaAzure {
     private static String KEY = "CHAVE_ULTRA_SECRETA";
